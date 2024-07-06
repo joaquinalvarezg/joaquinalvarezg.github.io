@@ -29,6 +29,3 @@ group :other_plugins do
   gem 'feedjira'
   gem 'httparty'
 end
-
-# Ensure to add this line outside of any group
-gem 'github-pages', '~> 231'  # Replace 231 with the appropriate version
